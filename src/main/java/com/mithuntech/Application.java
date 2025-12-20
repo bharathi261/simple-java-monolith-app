@@ -10,6 +10,8 @@ public class SimpleMonolithApplication {
     }
 }*/
 
+//pollscm test
+
 package com.mithuntech;
 
 import org.springframework.boot.SpringApplication;
